@@ -1,2 +1,2 @@
-# Metodos_Numericos
-Material de apoyo para clases
+# Métodos_Numéricos
+Material de apoyo para clases de Métodos Numéricos.
